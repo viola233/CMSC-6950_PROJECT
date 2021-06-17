@@ -5,7 +5,6 @@ Jingyao Li
 #Software setup
 In this software, assuming you already have a conda installation such Miniforge
 installed.
-...
-conda install -c conda-forge gala
+```conda install -c conda-forge gala
 conda install astropy scipy numpy matplotlib
-...
+```
